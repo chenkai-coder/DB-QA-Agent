@@ -1,0 +1,2 @@
+setup/DB-QA-Agent-Setup.exe filter=lfs diff=lfs merge=lfs -text
+setup/stage/app.zip filter=lfs diff=lfs merge=lfs -text

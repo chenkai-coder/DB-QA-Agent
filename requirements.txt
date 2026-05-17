@@ -1,0 +1,7 @@
+qwen-agent
+customtkinter
+Pillow
+chromadb
+matplotlib
+pytest
+pyinstaller

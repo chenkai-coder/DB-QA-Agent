@@ -1,0 +1,25 @@
+# Virtual environments
+.venv/
+.venv_new/
+
+# Temporary files
+tmp_*
+workspace/
+
+# Build intermediates
+build/DB_QA_Agent/
+
+# Distribution archives (keep unpacked exe only)
+dist/*.zip
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
